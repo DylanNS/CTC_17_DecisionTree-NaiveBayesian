@@ -1,0 +1,20 @@
+Conjunto de Validacao
+win      6597
+loss     2457
+draw     946
+Decision Tree Validate
+Acertos:  {'win': 6111, 'loss': 777, 'draw': 0}  ( 0.6888 ) 
+Total:  10000
+A Priori
+Acertos:  {'win': 6597, 'loss': 0, 'draw': 0}  ( 0.6597 ) 
+Total:  10000
+Is Decision Tree has higher score than A priori ?  True
+Is Decision Tree has same score than A priori ?  False
+Is Decision Tree has lower score than A priori ?  False
+Matrix de Confusão
+        win     loss    draw     Total
+win     6111    486     0       6597
+loss    1680    777     0       2457
+draw    827     119     0       946
+Total   8618    1382    0
+Kappa:  0.2171360663804216

@@ -1,0 +1,9 @@
+Decision Tree Validate
+Acertos:  {'win': 5103, 'loss': 1129, 'draw': 0}  ( 0.6232 ) 
+Total:  10000
+A Priori
+Acertos:  {'win': 5926, 'loss': 0, 'draw': 0}  ( 0.5926 ) 
+Total:  10000
+Is Decision Tree higher has score than A priori ?  True
+Is Decision Tree has same score than A priori ?  False
+Is Decision Tree has lower score than A priori ?  False
